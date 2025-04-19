@@ -1,0 +1,18 @@
+[
+    {
+        "name": "file1.txt",
+        "type": "file"
+    },
+    {
+        "name": "file2.txt",
+        "type": "file"
+    },
+    {
+        "name": "folder",
+        "type": "folder"
+    },
+    {
+        "name": "image.jpg",
+        "type": "file"
+    }
+]
